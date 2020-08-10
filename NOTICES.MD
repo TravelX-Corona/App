@@ -31,4 +31,14 @@ CC BY-SA 4.0 and ODbL
 Google Maps Places API (Can be found at https://developers.google.com/places/web-service/overview)
 License can be found at https://developers.google.com/maps/terms-20180207
 
+Amazon Web Services - Ubuntu 18.04 Image (Can be found at https://aws.amazon.com/?nc2=h_lg)
+License can be found at https://aws.amazon.com/asl/
 
+Auth0 (Can be found at https://auth0.com/user-management)
+License can be found at https://auth0.com/web-terms
+
+Auth0 SDK Plugin for Flutter 0.5.0 - Denny Segura - Can be found at https://pub.dev/packages/flutter_auth0
+MIT License
+
+FreeLogoDesign - Can be found at https://www.freelogodesign.org/
+License and Terms can be found at https://www.freelogodesign.org/terms-of-use
