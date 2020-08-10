@@ -16,3 +16,9 @@ Data on fluctuations in crowd density and location data are obtained from the Go
 How To Use It: TravelX is implemented in Flutter and currently compatible with Android devices. Users can log in or create an account via Auth0, after which they can search for their intended destination. Information regarding weather, crowd density (if applicable) and risk score will be displayed. In the event that they are the first user to report data on risk, there may be no data displayed regarding the risk score. Furthermore, no crowd density data is available for residences or similar locations. If the user would like to report data regarding the risk score, they may select the "Submit Report" floating button to fill in information regarding face covering use, social distancing, crowd size, and the adjusted maximum capacity (due to COVID).
 
 This application was developed by Rohan Harish and Varun Pai. Thank you to all of the healthcare workers, scientists and public health advocates, and essential personnel working tirelessly to ensure our nation's resilience in this trying time.
+
+
+FOR TESTING PURPOSES, USE THE FOLLOWING ESTABLISHMENTS:
+Costco Wholesale, Edison, NJ
+Walmart Supercenter, Hackettstown, NJ
+Any other store or establishment will have crowd and weather data, but no risk score. However, adding a risk score using the submit report button and form will be displayed if that establishment is searched for again.
