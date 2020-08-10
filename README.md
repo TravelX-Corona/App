@@ -19,6 +19,6 @@ This application was developed by Rohan Harish and Varun Pai. Thank you to all o
 
 
 FOR TESTING PURPOSES, USE THE FOLLOWING ESTABLISHMENTS:
-Costco Wholesale, Edison, NJ
-Walmart Supercenter, Hackettstown, NJ
+#1) Costco Wholesale, Edison, NJ AND
+#2) Walmart Supercenter, Hackettstown, NJ
 Any other store or establishment will have crowd and weather data, but no risk score. However, adding a risk score using the submit report button and form will be displayed if that establishment is searched for again.
